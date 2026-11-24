@@ -21,7 +21,7 @@ O conteúdo tem como objetivo qualificar profissionais para reconhecer riscos as
 
 O repositório possui publicação configurada pelo GitHub Pages:
 
-[ Acessar o curso publicado ](https://pegasus-org-ej.github.io/projeto-lucimara/)
+[Acessar o curso publicado](https://pegasus-org-ej.github.io/projeto-lucimara/)
 
 ## Estrutura do repositório
 
@@ -49,3 +49,4 @@ Este repositório documenta os arquivos mantidos pela equipe da Pegasus. Não h�
 - O curso utiliza recursos próprios do Adobe Captivate, como navegação, mapa do curso e quizzes.
 - Não foram identificadas integrações externas com LMS, SCORM ou xAPI no escopo informado.
 - A documentação detalhada da organização do curso está em [`docs/curso/estrutura.md`](docs/curso/estrutura.md).
+
